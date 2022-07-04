@@ -348,10 +348,6 @@ gap: 4rem;
      }   
 }
 
-.blog__grid--pagina{
- grid-template-columns: repeat(3, 1fr);
-}
-
 .entrada{
     max-width: 80rem;
     margin: 0 auto;
